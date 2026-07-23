@@ -8,9 +8,14 @@ Time attack; Answer as many valid words as possible without losing all your live
 
 
 ### Multiplayer
-**Hot Potato:** Pass the bomb around to each player! Try not to let the bomb explode on you by answering as fast as possible!
-**Time Attack:** Everyone has their own timer, so try not to run out of time! (One Life)
-**Co-op:** Sharing is caring! Everyone shares the timer *and* lives! Work together to get as many words as possible before running out of lives!
+**Hot Potato:**
+Pass the bomb around to each player! Try not to let the bomb explode on you by answering as fast as possible!
+
+**Time Attack:**
+Everyone has their own timer, so try not to run out of time! (One Life)
+
+**Co-op:**
+Sharing is caring! Everyone shares the timer *and* lives! Work together to get as many words as possible before running out of lives!
 
 
 ## How To Play
