@@ -1,5 +1,5 @@
 # Custom BombParty Clone
-A text-baseed version of the web game BombParty (which can be played on html://jklm.fun) made entirely in Python, with added features.
+A text-baseed version of the web game BombParty (which can be played on [JKLM.fun](https://jklm.fun)) made entirely in Python, with added features.
 
 
 ## Gamemodes
